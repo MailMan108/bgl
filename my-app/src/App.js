@@ -32,8 +32,8 @@ function App() {
   return (
     <div className="App">
       <div className="header">
-        <h1>LOFI GENERATOR</h1>
-        <h3>by vin-huynh</h3>
+        <h1>BGL</h1>
+        <h3>a project by Bravenstein</h3>
       </div>
 
       <div className="colorBox">
@@ -66,7 +66,7 @@ function App() {
 
       <div className="instructions">
         <p>Click <b>{'>>'}</b> to generate a new song!</p>
-        <p>It may take a while, please be patient!</p>
+        <p>This can take up to a minute!</p>
       </div>
       
       <section className="backdrop"></section>
