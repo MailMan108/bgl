@@ -39,7 +39,7 @@ function App() {
       <div className="colorBox">
         <div className="loadInfo">
           {loaded? '' : (generatedFirst? 'LOADING' : 
-            <p className="generateFirst">Click <b>{'>>'}</b> to Generate Your First Song!</p>)}</div>
+            <p className="generateFirst">Click <b>{'New'}</b> to Generate Your First Song!</p>)}</div>
         <div className="visualizer">
           {loaded? <Visualizer audio={master.current.output}/> : '' }
         </div>
