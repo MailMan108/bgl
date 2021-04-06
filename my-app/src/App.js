@@ -60,12 +60,12 @@ function App() {
                   setPlaying(false);
                   master.current.generateSong(); 
                   setLoaded(false);}}>
-          <b>{'>>'}</b>
+          <b>{'New'}</b>
         </button>
       </div>
 
       <div className="instructions">
-        <p>Click <b>{'>>'}</b> to generate a new song!</p>
+        <p>Click <b>{'New'}</b> to generate a new song!</p>
         <p>This can take up to a minute!</p>
       </div>
       
