@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Azuki';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'Azuki';
+  src: local('Azuki'), url(fonts/azukiB.ttf) format('truetype');
+}
