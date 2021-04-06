@@ -7,7 +7,7 @@
 }
 
 .colorBox {
-  width: 70vh;
+  width: 75vh;
   height: 40vh;
   overflow: hidden;
   display: flex;
@@ -68,7 +68,7 @@ button:focus {
 .gradient {
   width: 100%;
   height: 100%;
-  background: linear-gradient(-45deg, #00aaff , #A348A6);
+  background: linear-gradient(-45deg, #00aaff , #DC143C);
   background-size: 100% 100%;
   position: absolute;
   z-index: -5;
@@ -102,7 +102,7 @@ button:focus {
 }
 
 .visualizer {
-  width: 80%;
+  width: 75%;
   height: fit-content;
   position: absolute;
   bottom: 0;
