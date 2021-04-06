@@ -3,11 +3,11 @@
   display: grid;
   grid-template-rows: auto auto auto auto;
   justify-content: center;
-  color: black;
+  color: white;
 }
 
 .colorBox {
-  width: 60vh;
+  width: 70vh;
   height: 40vh;
   overflow: hidden;
   display: flex;
@@ -81,7 +81,7 @@ button:focus {
   z-index: -10;
   top:0;
   left: 0;
-  background-color: #696969;
+  background-color: #1E2124;
 }
 
 .freqList {
@@ -102,7 +102,7 @@ button:focus {
 }
 
 .visualizer {
-  width: 50%;
+  width: 80%;
   height: fit-content;
   position: absolute;
   bottom: 0;
