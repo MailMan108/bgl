@@ -66,7 +66,7 @@ function App() {
 
       <div className="instructions">
         <p>Click <b>{'New'}</b> to generate a new song!</p>
-        <p>This can take up to a minute!</p>
+        <p>This may take some time, depending on your computer. Please be patient.</p>
       </div>
       
       <section className="backdrop"></section>
