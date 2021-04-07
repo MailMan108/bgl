@@ -31,6 +31,8 @@ Majenta: https://github.com/magenta/magenta-js
 
 BGL:https://github.com/Bravenstein09/bgl
 
+The main inspiration for this project: https://vin-huynh.github.io/lofigen/
+
 # How the website was made
 
 // https://braventstein-bgl-v1.netlify.app/ // 
