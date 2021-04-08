@@ -35,7 +35,7 @@ The main inspiration for this project: https://vin-huynh.github.io/lofigen/
 
 # How the website was made
 
-// https://braventstein-bgl-v1.netlify.app/ // 
+// https://bgl.netlify.app/ // 
 
 This project was bootstrapped in a facebook project known as Create React App // https://create-react-app.dev/ // This allows me to easily run the command " NPM build" in the project directory and have it make a working webapp.
 Once you have the build folder the command generated I went to Netlify // https://www.netlify.com/ //
